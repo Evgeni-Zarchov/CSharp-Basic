@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Dishwasher", "01-Dishwasher\01-Dishwasher.csproj", "{AB1F49BF-396A-48F3-8FB2-C442C2B6BC6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-ReportSystem", "02-ReportSystem\02-ReportSystem.csproj", "{8E3727DE-8015-44D7-B5D0-CBD3EF037BC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB1F49BF-396A-48F3-8FB2-C442C2B6BC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1F49BF-396A-48F3-8FB2-C442C2B6BC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1F49BF-396A-48F3-8FB2-C442C2B6BC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1F49BF-396A-48F3-8FB2-C442C2B6BC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3727DE-8015-44D7-B5D0-CBD3EF037BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3727DE-8015-44D7-B5D0-CBD3EF037BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3727DE-8015-44D7-B5D0-CBD3EF037BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3727DE-8015-44D7-B5D0-CBD3EF037BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F3F0D9E-D972-40A0-A0C6-5D4444ACCBB8}
+	EndGlobalSection
+EndGlobal
